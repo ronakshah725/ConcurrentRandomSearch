@@ -1,0 +1,23 @@
+
+
+2. Use fail-fast techniques. fail fast means tha building code so 
+that bugs are generated more often, on event of failure. Rather than 
+not throwing an exception, whenever a small error occurs, throw an 
+exception, so bugs can be identified and corrected instantly.
+Assertions are the key t 'xAd' o failing fast. 
+
+3. However, it’s tough to know when to
+add assertions. One way to tell is to look for comments. Comments often 
+document assumptions about how a piece of
+code works or how it should be called.
+When you see those comments, or feel
+like writing one, think about how you
+can turn it into an assertion instead.
+
+4. Stacks 
+precond 	: top = -1, 
+isEmpty() 	: top ==-1, 
+isFull()	: top == n-1
+
+5. Queue:
+precond : head,tail = -1,

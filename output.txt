@@ -1,0 +1,18 @@
+Running with timeout of 1 seconds
+
+Timeout : 1 sec
+File                elapsed(sec)        byte_cnt(bytes)     status
+-------------------------------------------------------------------------
+ran6.txt            0.02                210060              SUCCESS
+file5.txt           0.00                2288                SUCCESS
+HELPER.txt          0.00                588                 SUCCESS
+README.txt          0.00                236                 SUCCESS
+ran3.txt            0.00                16                  SUCCESS
+file12.txt          0.00                0                   TIMEOUT
+file8.txt           0.00                0                   TIMEOUT
+Node.txt            0.00                0                   FAILURE
+output.txt          0.00                0                   FAILURE
+ran1.txt            0.00                0                   FAILURE
+ran2.txt            0.00                0                   FAILURE
+Average time to read 1 KB : 0.089 sec/KB
+Done.
