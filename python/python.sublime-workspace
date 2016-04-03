@@ -1,0 +1,862 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"line",
+				"lines"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"yy",
+				"yylineno"
+			],
+			[
+				"err",
+				"error_line"
+			],
+			[
+				"base",
+				"base64"
+			],
+			[
+				"e",
+				"exit"
+			],
+			[
+				"ge",
+				"generate"
+			],
+			[
+				"op",
+				"openLink"
+			],
+			[
+				"pr",
+				"printOdd"
+			],
+			[
+				"prin",
+				"printOdd"
+			],
+			[
+				"su",
+				"sumIntsFromFile"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"mu",
+				"mult"
+			],
+			[
+				"mul",
+				"multTable"
+			],
+			[
+				"fo",
+				"fore	for (each)"
+			],
+			[
+				"co",
+				"courseID"
+			],
+			[
+				"cou",
+				"courses"
+			],
+			[
+				"ph",
+				"phoneNumber"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"St",
+				"StringBuffer"
+			],
+			[
+				"ca",
+				"capacity"
+			],
+			[
+				"F",
+				"FileInputStream"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"r",
+				"randRange"
+			],
+			[
+				"arr",
+				"arraycopy"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"a",
+				"arraycopy"
+			],
+			[
+				"aC",
+				"aCopy"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"merge",
+				"mergeSort"
+			],
+			[
+				"pa",
+				"param	@param"
+			],
+			[
+				"n",
+				"numArr"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"ma",
+				"maxSize"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"da",
+				"date_accepted"
+			],
+			[
+				"cl",
+				"client_id"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"com",
+				"commission_type"
+			],
+			[
+				"rol",
+				"role_id"
+			],
+			[
+				"trade",
+				"trader_id"
+			],
+			[
+				"fli",
+				"flight_time"
+			],
+			[
+				"flight",
+				"flight_number"
+			],
+			[
+				"tab",
+				"tableClass"
+			],
+			[
+				"ta",
+				"tableClass"
+			],
+			[
+				"to",
+				"toggle_block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"list",
+				"listOfFiles"
+			],
+			[
+				"get",
+				"getBytes"
+			],
+			[
+				"ch",
+				"checkPoints_B"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test1.py",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Use ':' after condition \n	if [cond]: stmnt\n	elif [cond]: stmnt\n	else: stmnt",
+			"file": "helper.txt",
+			"file_size": 10,
+			"file_write_time": 131041123600000000,
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Unix",
+				"name": "helper.txt"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nAnaconda\n--------\n\n  # Anaconda\n  Anaconda turns your Sublime Text 3 into a full featured Python IDE. Read the plugin documentation on [http://damnwidget.github.io/anaconda](http://damnwidget.github.io/anaconda).\n  \n  \n  ## Getting Started\n  Anaconda works out of the box but there are multitude of options and features that you can tune and adapt to your own style or needs.\n  \n  * [Autocompletion on dot](http://damnwidget.github.io/anaconda/IDE/#toc_3)\n  * [Powerful IDE](http://damnwidget.github.io/anaconda/IDE/)\n  * [Advanced Configuration](http://damnwidget.github.io/anaconda/anaconda_settings/)\n  * [Run Tests using Anaconda](http://damnwidget.github.io/anaconda/tests_runner/)\n  * [Linting theme customization](http://damnwidget.github.io/anaconda/IDE/#toc_50)\n  * [Using Vagrant Environments](http://damnwidget.github.io/anaconda/vagrant/)\n  \n  ## License\n  This program is distributed under the terms of the GNU GPL v3. See the [LICENSE][license] file for more details.\n  \n  ## Tooltips\n  anaconda officially supports user themeable tooltips and displaying advanced signatures. This is how it looks in a dark theme:\n  \n  ![Tooltips Image][tooltips-dark-image]\n  \n  **Note**: This feature is enabled for users of Sublime Text 3 build 3070 or superior only.\n  \n  ## Troubleshooting\n  This section lists some common issues faced by users, along with workarounds.\n  \n  #### Anaconda does not appear in the Available Packages list on Package Control.\n  \n  **Work-around**: You have to update your Package Control version to the version 2.0 or better.\n  \n  #### Errors in the console about \"the file can't be open\" in worker.py file.\n  Your Sublime Text can't find the interpreter that you set in your configuration, by default, anaconda sets this as `python` so it will get your configured Python interpreter in your PATH (if any).\n  \n  **Work-around**: Add a Python interpreter (named `python`) to your PATH or set a right full path to your python interpreter as parameter of `python_interpreter` settings option, for example `/usr/local/bin/python3.4`.\n  \n  #### Auto-complete for import behaves badly.\n  Sublime Text 3's default Python package cancels the auto-completion when some words are detected (for example `def` or `class`). This list of words includes `import`.\n  \n  **Work-around**: Create a new Python directory in your Packages directory and copy the contents of the file [Completion Rules.tmPreferences][Completion-Rules] there with the same name.\n  Delete your Sublime Text Cache file `Cache/Python/Completion Rules.tmPreferences.cache`.\n  \n  **NOTE**: The cache path can be optained from the Sublime TExt 3 console using the code `sublime.cache_path()`\n  \n  #### Auto-complete drop-down shows up incorrectly.\n  SublimeCodeIntel interferes with anaconda's auto-completion.\n  \n  **Work-around**: Consider disabling SublimeCodeIntel for Python views or disabling/removing it completely when using anaconda.\n  \n  ## Contributing to Anaconda\n  There are several ways to contribute with anaconda.\n  \n  > Note: A [Developers Documentation book][dev-docs] is maintained up to date with the latest information about anaconda's internals and useful information about how to contribute to the project.\n  \n  ### Feedback\n  Giving feedback about the plugin and how it works in your platform, helps make the plugin better.\n  \n  ### Bug Hunting\n  Did you found a bug and you know how to fix it? First of all, Thank you very much. You just have to report the bug as a new issue, fork the repository, make your changes and send a new pull request.\n  \n  ### Suggesting and Implementing Features\n  So you thought of a new killer feature to implement in Anaconda? Great! Open an issue for it and and we will discuss it with you.\n  \n  ### Donations\n  Please donate to help keep this project alive.\n  \n  [![PayPal][paypal-donate-image]][paypal-donate-link]\n  [![Flatter][flatter-image]][flatter-link]\n  \n  [license]: https://raw.githubusercontent.com/DamnWidget/anaconda/master/LICENSE\n  [Completion-Rules]: https://raw.githubusercontent.com/DamnWidget/anaconda/master/Completion%20Rules.tmPreferences\n  [dev-docs]: http://damnwidget.gitbooks.io/anacondast3-developers-documentation/\n  [paypal-donate-image]: https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif\n  [paypal-donate-link]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=KP7PAHR962UGG&lc=US&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted\n  [flatter-image]: https://api.flattr.com/button/flattr-badge-large.png\n  [flatter-link]: http://flattr.com/thing/1765332/DamnWidgetanaconda-on-GitHub\n  [tooltips-dark-image]: http://damnwidget.github.io/anaconda/img/tooltips.png\n",
+			"settings":
+			{
+				"buffer_size": 4731,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "setp",
+		"selected_items":
+		[
+			[
+				"setp",
+				"Set Syntax: Python"
+			],
+			[
+				"",
+				"Set Syntax: Python"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"svn",
+				"SVN: Diff"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ronakshahmac/Dropbox/utd/resume/latest/apply.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/js/helper.txt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/input.txt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/main.cpp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/Tree.cpp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/Token.h",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/Makefile",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/error.err",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/Tree.h",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/calc.l",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/y.output",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/y.tab.hpp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/Token.cpp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/Eval.cpp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/calc.y",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/yacc_example/y.tab.cpp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/Makefile",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/main.c",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/dstruct.c",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/dstruct.h",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/crc.l",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p3/crc.y",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final2/my_test.sfp",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final2/parser1.cpp",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final2/parse.output",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final2/symbols.h",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final2/SFP.lex",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final2/text_err.sfp",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final2/final/parser1.cpp",
+		"/Users/ronakshahmac/Dropbox/utd/final/parser1.cpp",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final/text_err.sfp",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final/symbols.h",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final/SFP.lex",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final/readme.txt",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final/makefile",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final2/readme.txt",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final/parser1.cpp",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final2/my",
+		"/Users/ronakshahmac/Downloads/Book Solutions/final/parse.output",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/p2/p2/input.pt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/hw2/q1.txt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/p2/p2/grammar",
+		"/Users/ronakshahmac/Dropbox/utd/ATN/ronak/project2/subtitle.txt",
+		"/Users/ronakshahmac/Dropbox/utd/ATN/proj2/Abhinav.java",
+		"/Users/ronakshahmac/Dropbox/utd/ATN/proj2/Project2.java",
+		"/Users/ronakshahmac/Dropbox/utd/a150/README",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/README",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/output.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/Final/README",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/random/file5.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/random/ran3.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/random/HELPER.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/random/Node.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/Final/xad.sh",
+		"/Users/ronakshahmac/Dropbox/utd/a150/startups.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/xad.sh",
+		"/Users/ronakshahmac/Downloads/big.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/file.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/files/ran5.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/files/ran3.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/files/ran4.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/files/ran2.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/files/ran6.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/files/ran1.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/SearchStreams.java",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/files/ran5.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/files/a.txt",
+		"/Users/ronakshahmac/Downloads/all.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/ran1.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/xad/CharReader.java",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/XAMPP/xamppfiles/etc/my.cnf",
+		"/Users/ronakshahmac/Dropbox/utd/a150/STICK TO THE PLAN/12_marD.txt",
+		"/Users/ronakshahmac/Dropbox/utd/a150/ronak.me/html5up-identity/assets/js/PIE.htc",
+		"/Users/ronakshahmac/Dropbox/utd/a150/react-term/myWeb",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/tt/parser1.cpp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/p2/sfp.grammar",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/p2/mytab.pt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/helper/jsmachines/js/lrparseview.js",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/out",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/helper/jsmachines/.parser.y.swp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/helper/jsmachines/SLR_parser.docx",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/p2/tab_awk.txt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/p2/out",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/helper/jsmachines/slr.html",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/helper/jsmachines/.DS_Store",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/helper/jsmachines/scanner.l",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/helper/jsmachines/parser.y",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/p2/Copy of table.csv",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/p2/grammar",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/makefile",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/p2/makefile",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/untitled folder/parser1.c",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/untitled folder/cpp.sublime-workspace",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/untitled folder/symbols.h",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/untitled folder/sample2.pt",
+		"/Users/ronakshahmac/Dropbox/utd/resume/latest/HELPER.txt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/formula_helper.txt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/symbols.h",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/sample2.pt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/sample.pt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p22/p22/try.out",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/sample.sfp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/p2/p2/sample.sfp.out",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/jsmachines/js/lrclosuretable.js",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/jsmachines/slr.html",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/jsmachines/js/lrtable.js",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/flex/symbols.h",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/jsmachines/js/lrparseview.js",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/flex/parser1.cpp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/flex/SFP1.flex",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/flex/SFP1.ll",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/jsmachines/scanner.l",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/flex/raj/src/parser.y",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/flex/raj/src/scanner.l",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/flex/raj/src/lexfile.l",
+		"/Users/ronakshahmac/Dropbox/utd/resume/apply.txt",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/makefile",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/.gitignore",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/jsmachines/parser.y",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/parser1.cpp",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/sample2.out",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/sample_simple.out",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/parser1.c",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/sample.sfp.out",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/symbols.h",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/proj2/SFP.lex",
+		"/Users/ronakshahmac/Dropbox/utd/compiler/all_sols/utdallas.edu/~ilyen/course/compiler/for16s/sample.pt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"[()]+",
+			"Ronak",
+			"♣	",
+			"[12:57 AM, 3/26/2016] dallas ronak: ",
+			"(.+[:][ ])",
+			"[12:57 AM, 3/26/2016] dallas ronak",
+			"[12:57 AM, 3/26/2016] dallas ronak:",
+			"Final Mincut: 0",
+			"Token",
+			"states",
+			"error_line",
+			"cfp.exe",
+			"%s",
+			"[\\t]",
+			"p",
+			"mkdir",
+			"done...",
+			"xAd",
+			"]]",
+			"[[",
+			"files",
+			"xAd",
+			"weddings",
+			"xAd",
+			"\n\n",
+			"xAd",
+			"sex",
+			"¬	",
+			"♣	",
+			"'),\n",
+			"source",
+			"        ",
+			"     'source': this.openLink('https://github.com/prakhar1989/react-term/blob/master/src/app.js'),",
+			" ",
+			"	",
+			"parseinput",
+			"	",
+			",",
+			"	",
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10",
+			"11",
+			"12",
+			"13",
+			"14",
+			"15",
+			"16",
+			"17",
+			"18",
+			"19",
+			"20",
+			"21",
+			"22",
+			"23",
+			"0",
+			"1",
+			"0",
+			"1",
+			"0",
+			"19",
+			"0",
+			"[0-9]?[0-9]",
+			"s",
+			"						\n",
+			"r9",
+			"r8",
+			"r7",
+			"r6",
+			"r5",
+			"r4",
+			"r3",
+			"r2",
+			"r1",
+			"rb",
+			"lb",
+			" ",
+			">",
+			",",
+			" ",
+			"line_counter",
+			"line_co",
+			"line",
+			"yyline",
+			"function parseInput",
+			"parseInput",
+			"LRTable",
+			"LRClosureTable",
+			"1",
+			"is",
+			"return",
+			";",
+			"=",
+			"public static final int",
+			"symbol",
+			"zzBuffer",
+			"zzBufferL",
+			"next_tok",
+			"scanner",
+			"Scanner",
+			"loop",
+			"zzBufferL",
+			"zzCh",
+			"next_token",
+			"printf",
+			"));\n",
+			"StudentVO",
+			"name",
+			" ",
+			"/ /",
+			"node",
+			"Node",
+			"node",
+			"Node",
+			"node",
+			"Node",
+			"node",
+			"\\node\\",
+			"node"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\t\\t",
+			"",
+			"text",
+			"\\t",
+			"{0}+1",
+			"trip",
+			"Hide..",
+			"*"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "helper.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"auto_name": "helper.txt",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4731,
+								4731
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 569.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sf",
+				"sfp.flex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

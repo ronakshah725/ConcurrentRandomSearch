@@ -1,0 +1,5 @@
+-Use ':' after condition 
+	if [cond]: stmnt
+	elif [cond]: stmnt
+	else: stmnt
+-
